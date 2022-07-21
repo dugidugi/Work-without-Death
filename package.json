@@ -1,0 +1,27 @@
+{
+  "name": "workwithoutdeath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node main.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dugidugi/Work-without-Death.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dugidugi/Work-without-Death/issues"
+  },
+  "homepage": "https://github.com/dugidugi/Work-without-Death#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "fast-xml-parser": "^4.0.9",
+    "json2csv": "^5.0.7",
+    "node-fetch": "^3.2.8"
+  }
+}
